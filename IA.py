@@ -1463,7 +1463,7 @@ print(historico_ranking.head(100))
 # 
 
 # In[ ]:
-
+ 
 
 # import schedule
 
